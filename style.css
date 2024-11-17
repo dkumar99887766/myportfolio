@@ -398,7 +398,7 @@ header .navbar ul li a:hover {
 
 @media(max-width:400px){
     header{
-        width: 100vh;
+        width: 30vh;
       }
     .heading{
         margin: 0 3rem;
