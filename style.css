@@ -389,7 +389,7 @@ header .navbar ul li a:hover {
       }
 }
 
-@media(max-width:768px){
+@media(max-width:900px){
   html{
         font-size: 50%;
       }
@@ -398,7 +398,7 @@ header .navbar ul li a:hover {
 
 @media(max-width:400px){
     header{
-        width: 30vh;
+        width: 25vh;
       }
     .heading{
         margin: 0 3rem;
